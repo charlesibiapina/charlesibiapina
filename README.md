@@ -31,7 +31,5 @@
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/charlesibiapina/blob/output/github-contribution-grid-snake.svg)
-
 
 
