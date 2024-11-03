@@ -5,11 +5,10 @@ A student of Information Systems, currently studying to become a front-end devel
 ## My stats:
 
 
-<div>
-  <a href="https://github.com/charlesibiapina">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=charlesibiapina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesibiapina&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesibiapina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesibiapina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="Linguagens mais usadas" />
+</div>
 </div>
 
 ## I code with:
