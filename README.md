@@ -12,7 +12,7 @@ A student of Information Systems, currently studying to become a front-end devel
 </div>
 
 ## I code with:
-
+<div align="center">
 <div style="display: inline-block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +23,7 @@ A student of Information Systems, currently studying to become a front-end devel
 </div>
 
 ##
-
+<div align="center">
 <div style="text-align: center;">
   <a href="https://instagram.com/charlesibiapina" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
